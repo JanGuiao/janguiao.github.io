@@ -7,10 +7,6 @@
 - A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)        		
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
 **Help Desk Intern, John F. Kennedy (_December 2018 - May 2019_)**
 - Expedited resolution of technical issues through application of foundational IT knowledge, resulting in a substantial 50% improvement in system operation.
 - Led strategic initiatives involving diagnosis, repair, and replacement of an average of 10-15 devices.
