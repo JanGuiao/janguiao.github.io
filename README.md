@@ -1,6 +1,6 @@
 # Cybersecurity Student
 
-#### Technical Skills: Microsoft Azuire | PowerShell | Log Analytics | Security Event Management | Active Directory | Virtualization | DHCP
+#### Technical Skills: Microsoft Azure | PowerShell | Log Analytics | Security Event Management | Active Directory | Virtualization | DHCP
 
 ## Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_Present_) 						       	
