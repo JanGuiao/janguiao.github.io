@@ -26,7 +26,7 @@ Implemented Active Directory Domain Services on Windows Server 2019, creating a 
 Implemented a System.IO.FileSystemWatcher object to continuously monitor changes within the directory, including file modifications, creations, deletions, and renaming. Utilized PowerShell event handling to execute custom responses to file system events, ensuring immediate notification and logging of critical file changes. Demonstrated the script’s effectiveness through a series of controlled tests, verifying the scrip’s capability to detect and report file changes accurately. 
 
 ### Minecraft Pi via (_Raspberry Pi OS_) 
-•	Developed and executed Python scripts to perform various tasks within Minecraft, such as sending messages, manipulating player position, and altering the game environment. Implemented advanced game modifications, including creating structures and experimenting with game physics through code. Demonstrated ability to troubleshoot and resolve issues related to both software and hardware configurations.
+Developed and executed Python scripts to perform various tasks within Minecraft, such as sending messages, manipulating player position, and altering the game environment. Implemented advanced game modifications, including creating structures and experimenting with game physics through code. Demonstrated ability to troubleshoot and resolve issues related to both software and hardware configurations.
 
 ## Others 
 - Dean's List at University of Maryland Global Campus (UMGC) 
