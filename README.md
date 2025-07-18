@@ -74,7 +74,7 @@ Developed and executed Python scripts to perform various tasks within Minecraft,
 ## Certifications
 - CompTIA Security+ (April 2024)
 
-Others 
+## Others 
 - Dean's List at University of Maryland Global Campus (UMGC) 
 - Tau Chapter of Alpha Sigma Lambda
 
