@@ -3,11 +3,11 @@
 #### Skills: Office 365 | Asset Management | Security Event Management | Patch Management | Power BI | Network Configuration (TCP/IP, DNS, DHCP, LAN/WAN) Powershell | RDP | Active Directory | VoIP | ServiceNow
 
 
-## Education
+# Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_May 2024_) 						       	
 - A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)        		
 
-## Work Experience
+# Work Experience
 
 **System Administrator, Ministry of Health - Saudi Arabia | Washington D.C. (_December 2024 - June 2025_)** 
 - Provided comprehensive technical support and infrastructure management for 35–40 end-users, ensuring 99.9% uptime across 
@@ -28,7 +28,7 @@ and physical layer redundancies for scalability.
 
 
 
-## Personal Projects
+# Personal Projects
 
 ### Personal Homelab Environment
 This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
@@ -48,7 +48,7 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 -**KVM Switch** (Enables local control of both Optiplexes using one monitor, keyboard, and mouse. I'll physically connect the KVM to each Optiplex via HDMI/DisplayPort and USB, allowing you to toggle between machines during OS installations and maintenance.)
 
-# TBD equipment: 
+## TBD equipment: 
 
 -**Motherboard: ITX** (ASRock J5040-ITX or newer alternative) - (Acts as the dedicated system board for my NAS/server node, hosting TrueNAS SCALE (an open-soruce NAS OS based on Debian with ZFS support - TrueNAS - ZFS - Web UI Management - SMB/NFS shares - possible RAID) 
 
