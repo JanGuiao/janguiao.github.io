@@ -80,7 +80,7 @@ Developed and executed Python scripts to perform various tasks within Minecraft,
 
 
 # **Certifications**
-- CompTIA Security+ (April 2024)
+- [CompTIA Security+ (April 2024)](https://www.credly.com/badges/8dc121ca-f3d8-4252-aed4-10e2101fe8fa/public_url)
 
 
 # **Others**
