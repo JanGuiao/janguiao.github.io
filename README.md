@@ -56,8 +56,9 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 
 <p align="center"> 
-<img src="https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f" width="300"/> 
+<img src="https://github.com/user-attachments/assets/3992afe0-26f0-4812-9c91-94bffcd2bfe5" width="300"/> 
 </p>
+
 
 
 
