@@ -2,10 +2,11 @@
 
 #### Skills: Office 365 | Asset Management | Security Event Management | Patch Management | Power BI | Network Configuration (TCP/IP, DNS, DHCP, LAN/WAN) Powershell | RDP | Active Directory | VoIP | ServiceNow
 
-
+---
 # Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_May 2024_) 						       	
 - A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)        		
+---
 
 # Work Experience
 
@@ -27,8 +28,10 @@ and physical layer redundancies for scalability.
 - Led independent optimization of troubleshooting processes, reducing resolution times by 20% and mitigating recurring issues, enhancing overall efficiency in help desk environment. 
 
 
+---
 
 # Personal Projects
+---
 
 ### Personal Homelab Environment
 This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
