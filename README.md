@@ -2,7 +2,8 @@
 
 #### Skills: Office 365 | Asset Management | Security Event Management | Patch Management | Power BI | Network Configuration (TCP/IP, DNS, DHCP, LAN/WAN) Powershell | RDP | Active Directory | VoIP | ServiceNow
 
----
+# 
+
 # Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_May 2024_) 						       	
 - A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)        		
@@ -27,7 +28,7 @@ and physical layer redundancies for scalability.
 - Collaborated with students and users to swiftly resolve issues, boosting satisfaction, strengthening trust, and achieving an 80% increase in user experience. Implemented impactful user training and awareness initiatives for IT service.
 - Led independent optimization of troubleshooting processes, reducing resolution times by 20% and mitigating recurring issues, enhancing overall efficiency in help desk environment. 
 
-<hr style="border: -5px solid #ccc; margin-top: -10px;" />
+
 
 ---
 
