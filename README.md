@@ -7,8 +7,7 @@
 --- 
 # Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_May 2024_) 						       	
-- A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)
--        		
+- A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_) 
 ---
 
 --- 
