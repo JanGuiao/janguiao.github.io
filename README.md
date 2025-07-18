@@ -27,7 +27,7 @@ and physical layer redundancies for scalability.
 - Collaborated with students and users to swiftly resolve issues, boosting satisfaction, strengthening trust, and achieving an 80% increase in user experience. Implemented impactful user training and awareness initiatives for IT service.
 - Led independent optimization of troubleshooting processes, reducing resolution times by 20% and mitigating recurring issues, enhancing overall efficiency in help desk environment. 
 
-<hr style="border: 0.5px solid #ccc; margin-top: -10px;" />
+<hr style="border: 0.1px solid #ccc; margin-top: -10px;" />
 
 ---
 
