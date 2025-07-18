@@ -1,12 +1,23 @@
-# Cybersecurity Student
+# Former System Administrator 
 
-#### Technical Skills: Microsoft Azure | PowerShell | Log Analytics | Security Event Management | Active Directory | Virtualization | DHCP
+#### Skills: Office 365 | Asset Management | Security Event Management | Patch Management | Power BI | Network Configuration (TCP/IP, DNS, DHCP, LAN/WAN) Powershell | RDP | Active Directory | VoIP | ServiceNow
 
 ## Education
 - B.S., Cybersecurity Technology | University of Maryland Global Campus | GPA 3.94/4.0 (_Present_) 						       	
 - A.A.S, Cloud Computing and Networking Technology | Montgomery College (_May 2022_)        		
 
 ## Work Experience
+
+**System Administrator, Ministry of Health - Saudi Arabia | Washington D.C. (_December 2024 - June 2025_)** 
+- Provided comprehensive technical support and infrastructure management for 35–40 end-users, ensuring 99.9% uptime across 
+workstations, servers, and network systems. 
+- Liaised with Saudi Ministry of Health (MOH) officials to scope and plan a nationwide medical data infrastructure project 
+aimed at enhancing case tracking and remote advising for Saudi patients in the U.S. 
+- Delivered both remote and on-site training to improve user digital literacy, onboarding efficiency, and system compliance. 
+- Led an office-wide network infrastructure upgrade project, planning and executing structured cabling, cradlepoint integration, 
+and physical layer redundancies for scalability.
+
+
 **Help Desk Intern, John F. Kennedy (_December 2018 - May 2019_)**
 - Expedited resolution of technical issues through application of foundational IT knowledge, resulting in a substantial 50% improvement in system operation.
 - Led strategic initiatives involving diagnosis, repair, and replacement of an average of 10-15 devices.
