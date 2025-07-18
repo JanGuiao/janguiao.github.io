@@ -72,7 +72,7 @@ Implemented a System.IO.FileSystemWatcher object to continuously monitor changes
 Developed and executed Python scripts to perform various tasks within Minecraft, such as sending messages, manipulating player position, and altering the game environment. Implemented advanced game modifications, including creating structures and experimenting with game physics through code. Demonstrated ability to troubleshoot and resolve issues related to both software and hardware configurations.
 
 #
- Certifications 
+<font size="5">Certifications</font>  
 - CompTIA Security+ (April 2024)
 
 Others 
