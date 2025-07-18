@@ -48,7 +48,7 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 -**KVM Switch** (Enables local control of both Optiplexes using one monitor, keyboard, and mouse. I'll physically connect the KVM to each Optiplex via HDMI/DisplayPort and USB, allowing you to toggle between machines during OS installations and maintenance.)
 
-TBD equipment: 
+# TBD equipment: 
 
 -**Motherboard: ITX** (ASRock J5040-ITX or newer alternative) - (Acts as the dedicated system board for my NAS/server node, hosting TrueNAS SCALE (an open-soruce NAS OS based on Debian with ZFS support - TrueNAS - ZFS - Web UI Management - SMB/NFS shares - possible RAID) 
 
