@@ -61,9 +61,9 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 <img src="https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f" width="300"/> 
 </p>
 
----
 
-Cont. Projects...
+
+# Cont. Projects...
 
 ### SIEM in Microsoft Azure (_Sentinel_)
 Deployed Azure Virtual Machine with Windows 10 Pro, configuring network security settings and firewall rules to simulate real-world cyber threat scenarios. Integrated Log Analytics Workspace with VM, enabling comprehensive monitoring and logging security events. Utilized PowerShell script to extract geolocation data from failed RDP logon attempts, applying an IP geolocation API to map the source of security threats. Visualized attack sources by leveraging Azure Sentinel to create dynamic maps showing the origins of failed RDP attempts, providing actionable intelligence on threat patterns. 
