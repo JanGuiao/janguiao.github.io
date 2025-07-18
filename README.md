@@ -52,7 +52,9 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 -**Motherboard: ITX** (ASRock J5040-ITX or newer alternative) - (Acts as the dedicated system board for my NAS/server node, hosting TrueNAS SCALE (an open-soruce NAS OS based on Debian with ZFS support - TrueNAS - ZFS - Web UI Management - SMB/NFS shares - possible RAID) 
 
+<p align="center"> 
 <img src="https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f" width="300"/> 
+</p>
 
 
 ### SIEM in Microsoft Azure (_Sentinel_)
