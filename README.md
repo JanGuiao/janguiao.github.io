@@ -1,4 +1,4 @@
-# Former System Administrator | Long-life learner 
+# Former System Administrator | Life-long learner 
 
 #### Skills: Office 365 | Asset Management | Security Event Management | Patch Management | Power BI | Network Configuration (TCP/IP, DNS, DHCP, LAN/WAN) Powershell | RDP | Active Directory | VoIP | ServiceNow
 
