@@ -33,7 +33,7 @@ and physical layer redundancies for scalability.
 ### Personal Homelab Environment
 This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
 
-## Utilities 
+### Utilities 
 
 -**Rackmate T1 (8U)** (Server Rack) 
 
