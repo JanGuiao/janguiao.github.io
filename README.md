@@ -48,11 +48,11 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 ## TBD equipment: 
 
-- **Motherboard: ITX** (ASRock J5040-ITX or newer alternative) - (Acts as the dedicated system board for my NAS/server node, hosting TrueNAS SCALE (an open-soruce NAS OS based on Debian with ZFS support - TrueNAS - ZFS - Web UI Management - SMB/NFS shares - possible RAID) 
+- **Motherboard ITX**: (ASRock J5040-ITX or newer alternative) - (Acts as the dedicated system board for my NAS/server node, hosting TrueNAS SCALE (an open-soruce NAS OS based on Debian with ZFS support - TrueNAS - ZFS - Web UI Management - SMB/NFS shares - possible RAID) 
 
-- **PCIe x1 SATA Expansion Card (2 ports)** -- (Extends the number of SATA ports on the ITX motherboard (from 4 to 6 total) to fully utilize all 6 drive bays in the **ICY Dock** enclosure)
+- **PCIe x1 SATA Expansion Card (2 ports)**: - (Extends the number of SATA ports on the ITX motherboard (from 4 to 6 total) to fully utilize all 6 drive bays in the **ICY Dock** enclosure)
 
-- **PSU** : (PSU that powers the ITX mobo and the ICY DOCK enclosure. Should have enough SATA power connectors to supply 6 drives for stable power delivery) 
+- **PSU**: (PSU that powers the ITX mobo and the ICY DOCK enclosure. Should have enough SATA power connectors to supply 6 drives for stable power delivery) 
 
 
 <p align="center"> 
