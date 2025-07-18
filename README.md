@@ -31,7 +31,6 @@ and physical layer redundancies for scalability.
 ---
 
 # Personal Projects
----
 
 ### Personal Homelab Environment
 This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
