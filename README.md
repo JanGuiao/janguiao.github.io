@@ -42,7 +42,7 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 (Used as your primary network switch, connecting all devices via Cat6 Ethernet cables. It supports VLAN configuration, port isolation, and traffic monitoring via its web interface. Although PoE is not needed yet, it prepares myself for future PoE-capable devices like IP cameras or Raspberry Pi with PoE HATs.)
 - Icy Dock 6-Bay 2.5" SATA Enclsoure -- WIP 🚧
 
-![Image](https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f=250x250) 
+![Image](https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f) 
 
 
 ### SIEM in Microsoft Azure (_Sentinel_)
