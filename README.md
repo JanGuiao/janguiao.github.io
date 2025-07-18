@@ -52,7 +52,7 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 - **PCIe x1 SATA Expansion Card (2 ports)** -- (Extends the number of SATA ports on the ITX motherboard (from 4 to 6 total) to fully utilize all 6 drive bays in the **ICY Dock** enclosure)
 
-- PSU: (PSU that powers the ITX mobo and the ICY DOCK enclosure. Should have enough SATA power connectors to supply 6 drives for stable power delivery) 
+- **PSU** : (PSU that powers the ITX mobo and the ICY DOCK enclosure. Should have enough SATA power connectors to supply 6 drives for stable power delivery) 
 
 
 <p align="center"> 
