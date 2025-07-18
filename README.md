@@ -64,7 +64,7 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 
 # Cont. Projects... (see github repositories)
 
-### SIEM in Microsoft Azure (_Sentinel_)(https://github.com/JanGuiao/SIEM-In-Microsoft-Azure-Sentinel-/tree/main)
+### [SIEM in Microsoft Azure (_Sentinel_)](https://github.com/JanGuiao/SIEM-In-Microsoft-Azure-Sentinel-/tree/main)
 Spun up a Windows 10 VM in Azure, locked it down with custom firewall rules, and let the simulated cyberattacks begin. Wired it into Log Analytics to catch every event, then used PowerShell and a geolocation API to track where the failed RDP logins were coming from. Wrapped it all up with Azure Sentinel’s interactive maps to visualize threat patterns in real time and turn raw data into security insights.
 
 ### Active Directory Home Lab (_Windows_) 
