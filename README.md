@@ -67,15 +67,15 @@ This is my personal homelab! It is currently a work-in-progress (WIP) as I will 
 ### [SIEM in Microsoft Azure (_Sentinel_)](https://github.com/JanGuiao/SIEM-In-Microsoft-Azure-Sentinel-/tree/main)
 Spun up a Windows 10 VM in Azure, locked it down with custom firewall rules, and let the simulated cyberattacks begin. Wired it into Log Analytics to catch every event, then used PowerShell and a geolocation API to track where the failed RDP logins were coming from. Wrapped it all up with Azure Sentinel’s interactive maps to visualize threat patterns in real time and turn raw data into security insights.
 
-### Active Directory Home Lab (_Windows_) 
+### [Active Directory Home Lab (_Windows_)](https://github.com/JanGuiao/ActiveDirectoryLab)
 Set up a fully functional domain controller using Windows Server 2019 in a virtualized environment. Configured internal and NAT networking to create a secure, isolated lab for testing. Automated user creation with PowerShell to streamline administration tasks. Connected a Windows 10 client to the domain and validated network connectivity for smooth domain operations.
 
 
-### File System Watcher (_PowerShell_) 
+### [File System Watcher (_PowerShell_)](https://github.com/JanGuiao/FileSystemWatcher) 
 Developed a PowerShell script using the System.IO.FileSystemWatcher object to monitor a directory for real-time changes—such as file edits, creations, deletions, and renames. Integrated event handlers to trigger custom alerts and logging whenever changes occurred. Validated the script through controlled testing, confirming its accuracy in detecting and reporting critical file system activity.
 
 
-### Minecraft Pi via (_Raspberry Pi OS_) 
+### [Minecraft Pi via (_Raspberry Pi OS_)](https://github.com/JanGuiao/Minecraft-Pi/tree/master)
 Developed and executed Python scripts to perform various tasks within Minecraft, such as sending messages, manipulating player position, and altering the game environment. Implemented advanced game modifications, including creating structures and experimenting with game physics through code. Demonstrated ability to troubleshoot and resolve issues related to both software and hardware configurations.
 
 
