@@ -28,7 +28,24 @@ and physical layer redundancies for scalability.
 
 
 
-## Projects
+## Personal Projects
+
+###Personal Homelab Environment### 
+This is my personal homelab! It is currently a work-in-progress (WIP) as I will continually upgrade it. 
+
+# Utilities 
+- **Rackmate T1 (8U)** (Server Rack) 
+- **Dell Optiplex 3060** (Will run Proxmox VE, a free hypervisor installed from a bootable USB. Used to create virtual machines (VMs) and LXC containers for sandboxed environments like malware testing or OS/application experimentation. Managed via a browser-based web UI over your local network.)
+- **Dell Optiplex 3070** (Also running Proxmox VE. This node will host Docker contaienrs or VMs for services like a media server (Jellyfin), game servers (TBD), or self-hosted tools (e.g., Bookstack, Portainer). Network services and RDP access will be enabled for remote access from other devices on LAN.)
+- **KVM Switch** (Enables local control of both Optiplexes using one monitor, keyboard, and mouse. I'll physically connect the KVM to each Optiplex via HDMI/DisplayPort and USB, allowing you to toggle between machines during OS installations and maintenance.)
+- Managed PoE 8-Port Switch
+(Used as your primary network switch, connecting all devices via Cat6 Ethernet cables. It supports VLAN configuration, port isolation, and traffic monitoring via its web interface. Although PoE is not needed yet, it prepares myself for future PoE-capable devices like IP cameras or Raspberry Pi with PoE HATs.)
+- Icy Dock 6-Bay 2.5" SATA Enclsoure -- WIP 🚧
+
+![Image](https://github.com/user-attachments/assets/a52449d1-fb74-47cc-8934-b835d987a00f)
+
+
+
 ### SIEM in Microsoft Azure (_Sentinel_)
 Deployed Azure Virtual Machine with Windows 10 Pro, configuring network security settings and firewall rules to simulate real-world cyber threat scenarios. Integrated Log Analytics Workspace with VM, enabling comprehensive monitoring and logging security events. Utilized PowerShell script to extract geolocation data from failed RDP logon attempts, applying an IP geolocation API to map the source of security threats. Visualized attack sources by leveraging Azure Sentinel to create dynamic maps showing the origins of failed RDP attempts, providing actionable intelligence on threat patterns. 
 
